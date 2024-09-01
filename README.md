@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Wenio02
-- 👀 I’m interested in web development, particularly in building full stack applications using modern technologies.
-- 🌱 I’m currently learning advanced concepts in React, TypeScript, and exploring back-end development with Node.js, Express, and databases like MongoDB and MySQL.
-- 💞️ I’m looking to collaborate on open-source projects, web development initiatives, and any project where I can contribute my skills and continue to learn.
-- 📫 How to reach me: You can reach me via LinkedIn or email at wenioornelas0203@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started my journey in tech after working in completely different fields, and now I'm passionate about coding and solving complex problems through technology.
+👋 Olá, sou Wenio Ornelas
+👀 Estou interessado em desenvolvimento web, particularmente em construir aplicações full stack usando tecnologias modernas.
+🌱 Atualmente, estou aprendendo conceitos avançados em React, TypeScript e explorando o desenvolvimento back-end com Node.js, Express e bancos de dados como MongoDB e MySQL.
+💞️ Estou procurando colaborar em projetos de código aberto, iniciativas de desenvolvimento web e qualquer projeto onde eu possa contribuir com minhas habilidades e continuar aprendendo.
+📫 Como me encontrar: Você pode me encontrar pelo LinkedIn ou pelo e-mail wenioornelas0203@gmail.com.
+😄 Pronomes: Ele/Dele
+⚡ Curiosidade: Comecei minha jornada na tecnologia após trabalhar em áreas completamente diferentes e agora sou apaixonado por programação e resolver problemas complexos através da tecnologia.
