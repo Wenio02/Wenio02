@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Wenio02
+- 👀 I’m interested in web development, particularly in building full stack applications using modern technologies.
+- 🌱 I’m currently learning advanced concepts in React, TypeScript, and exploring back-end development with Node.js, Express, and databases like MongoDB and MySQL.
+- 💞️ I’m looking to collaborate on open-source projects, web development initiatives, and any project where I can contribute my skills and continue to learn.
+- 📫 How to reach me: You can reach me via LinkedIn or email at wenioornelas0203@gmail.com.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started my journey in tech after working in completely different fields, and now I'm passionate about coding and solving complex problems through technology.
